@@ -1,16 +1,31 @@
-# shop_app
+# Shoe Shop 👟
 
-A new Flutter project.
+A modern Flutter application for browsing and shopping shoes online, featuring an attractive interface and seamless shopping experience.
 
-## Getting Started
+## Features 🛒
 
-This project is a starting point for a Flutter application.
+- Browse a variety of shoes with detailed product information
+- Add shoes to your shopping cart and manage cart contents
+- View shoe details including images, price, and description
+- Intuitive navigation between product list, cart, and product detail pages
+- Responsive and customizable UI components
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots & Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+All screenshots and demo videos are shared in the Google Drive link below:  
+[Demo Link](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Structure
+
+```
+lib/
+  main.dart         # Entry point of the Flutter app
+  pages/            # UI screens (home, product details, cart, etc.)
+  providers/        # State management and business logic
+  widgets/          # Custom reusable UI components
+assets/             # Images and other media resources
+```
+
+---
+
+<p align="left" style="font-size:small"><i>[Public version of <code>flutter_projects/shop_app</code>]</i></p>
